@@ -114,3 +114,19 @@ MIT License - feel free to use and modify!
 <p align="center">
   <b>⭐ Star this repo if you find it useful!</b>
 </p>
+
+---
+
+## 🧪 Testing
+
+This project uses `pytest` for testing.
+
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run tests
+```bash
+pytest
+```
